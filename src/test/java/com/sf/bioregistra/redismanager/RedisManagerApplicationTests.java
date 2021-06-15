@@ -1,4 +1,4 @@
-package com.sf.br.redismanager;
+package com.sf.bioregistra.redismanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
